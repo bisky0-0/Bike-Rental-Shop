@@ -76,3 +76,4 @@ bike-shop.sh
 chmod +x bike-shop.sh
 ./bike-shop.sh
 ./bike-shop.sh
+./bike-shop.sh
