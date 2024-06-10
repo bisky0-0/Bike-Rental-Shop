@@ -57,3 +57,12 @@ chmod +x ./bikes-shop.sh
 chmod +x ./bikes-shop.sh
 chmod +x ./bike-shop.sh
 ./bike-shop.sh
+--hlep
+--help
+-help
+--help
+-help
+bash --help
+shell --help
+declare
+declare -f
