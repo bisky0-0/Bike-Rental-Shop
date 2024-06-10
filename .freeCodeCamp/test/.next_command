@@ -120,3 +120,7 @@ psql --username=freecodecamp --dbname=postgres
 ./bike-shop.sh d
 ./bike-shop.sh d
 ./bike-shop.sh
+update table bikes set available=false
+update bikes set available=false
+update bikes set available=false
+UPDATE bikes SET available=false
