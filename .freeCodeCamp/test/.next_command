@@ -66,3 +66,4 @@ bash --help
 shell --help
 declare
 declare -f
+./bike-shop.sh
