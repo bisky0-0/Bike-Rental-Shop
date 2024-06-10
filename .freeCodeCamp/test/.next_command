@@ -124,3 +124,4 @@ update table bikes set available=false
 update bikes set available=false
 update bikes set available=false
 UPDATE bikes SET available=false
+./bike-shop.sh
